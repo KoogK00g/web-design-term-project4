@@ -36,8 +36,11 @@ nav {
 	nav h1 span:first-child {
 		font-weight: 900;
 		text-align: left;
-		text-decoration: dotted underline white;
-		color: mintcream;
+		/*: dotted underline white;*/
+		background-color: #d1f4ff;
+		border-radius: 25px;
+		color: #3d75d9;
+		padding: 10px;
 		font-size: 40px;
 	}
 
@@ -60,7 +63,7 @@ h2 {
 	
 }
 	h2 a {
-	color: cadetblue;
+		color: #20488D;
 	}
 h3 {
 	text-align: center;
@@ -87,7 +90,7 @@ p {
 	padding-left: 60px;
 }
 	p a {
-		color: cadetblue;
+		color: #20488D;
 	}
 iframe {
 	padding-left: 60px;
